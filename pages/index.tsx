@@ -22,7 +22,7 @@ export default function Home({
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          My name is <b>Chris</b>. I'm a software enginer and a
+          Hello, I'm <b>Chris</b>. I'm a software engineer and a
           musician. You can email me at chris.evers92@gmail.com 🚀
         </p>
       </section>
